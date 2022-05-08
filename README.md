@@ -5,7 +5,10 @@ This is a reusable project in which a user can take record of his/her daily task
 Users can also delete tasks.
 These lists of tasks are being saved on the Local storage of the User's browser.
 
-#Usage
+# Usage
 Open the index.html file in the root folder with a web browser(preferably Chrome), and then You can access the project.
 
 The codes to the project are available on both the index.html file and the app.js file.
+
+# Author
+Tunji Ebifemi
